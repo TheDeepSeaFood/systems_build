@@ -7,6 +7,7 @@
 body {
     position: relative;
     font-family: Arial, sans-serif;
+    height: 100vh;
 }
 /* 
 body::before {
@@ -36,4 +37,8 @@ table tbody tr:hover {
 .card-body {
     background-color: transparent;
 
+}
+
+.main-content {
+    height: 70vh !important;
 }
